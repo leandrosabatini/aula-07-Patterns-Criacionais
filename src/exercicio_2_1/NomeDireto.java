@@ -10,5 +10,4 @@ public class NomeDireto implements NameParser {
 		
 		return new Nome(nome,sobrenome);
 	}
-
 }
