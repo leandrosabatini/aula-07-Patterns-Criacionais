@@ -1,4 +1,4 @@
-package ex_7_2;
+package exercicio_7_2;
 
 import java.util.Arrays;
 

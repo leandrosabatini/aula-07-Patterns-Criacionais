@@ -1,4 +1,4 @@
-package ex_7_2.exemplos;
+package exercicio_7_2.exemplos;
 
 public class Aluno implements Comparable{
 	private int ra;

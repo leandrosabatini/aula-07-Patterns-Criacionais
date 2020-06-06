@@ -1,4 +1,4 @@
-package ex_4_2;
+package exercicio_4_2;
 
 public class Cliente {
 	private SomadorEsperado somador;

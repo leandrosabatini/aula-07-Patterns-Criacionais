@@ -1,4 +1,4 @@
-package ex_7_2;
+package exercicio_7_2;
 
 /**
  * Solução do exercício pedido. As demais classes são exemplos.

@@ -1,4 +1,4 @@
-package ex_4_2;
+package exercicio_4_2;
 
 import java.util.List;
 

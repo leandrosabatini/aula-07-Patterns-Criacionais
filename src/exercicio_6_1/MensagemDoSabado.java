@@ -1,4 +1,4 @@
-package ex_6_1;
+package exercicio_6_1;
 
 public class MensagemDoSabado implements MensagemDoDia {
 
